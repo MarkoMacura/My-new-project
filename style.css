@@ -1,0 +1,10 @@
+.red-text{
+    color:red
+}
+
+.div{
+    width:100%;
+    background-color: yellow;
+    margin: 15px;
+    text-align: right;
+}
